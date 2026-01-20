@@ -1,2 +1,2 @@
 # Powershell ipscanner.ps1
-Powershell with WPF UI IP Scanner
+Powershell WPF UI IP Scanner
